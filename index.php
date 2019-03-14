@@ -2,7 +2,7 @@
 echo 'Home page of my-react-app';
 //ddddd
 
-if ($count > 0){
+if ($count > 1){
 	echo "count: ".$count;
 }
 ?>
